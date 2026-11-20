@@ -1,1 +1,1 @@
-# -_-изменение первого участника
+Firts participant conflict version
