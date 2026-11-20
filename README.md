@@ -1,1 +1,2 @@
-Firts participant conflict version
+First participant conflict version
+Second participant conflict version
